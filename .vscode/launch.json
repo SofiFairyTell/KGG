@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "kggl2",
+            "request": "attach",
+            "projectID": "da0fb7d0-9e31-4da7-a550-b23e45fda957"
+        },
+        {
+            "type": "vslsRemoteLaunch",
+            "name": "Points",
+            "request": "attach",
+            "projectID": "2a72fa0b-a860-4cb3-845d-6f34956a5a55"
+        }
+    ]
+}
